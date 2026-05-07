@@ -14,4 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi
+# Hi, I'm Saayuj.
+
+## About Me
+- I am learning Python and GitHub.
+- I enjoy solving problems with code.
+- I want to build fun beginner projects.
+- I am currently in 8th standard in DAV Public School.
+- I am from Pune, Maharashtra.
+- Very Important: [link](https://www.youtube.com/watch?v=Aq5WXmQQooo)
+
+## My Skills
+- Python
+- Markdown
+- GitHub
+
+## My Goal
+I want to use this page to share my work and track my progress.
+
